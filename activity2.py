@@ -1,3 +1,5 @@
+#iterations
+count=0
 def sum1(n):
     return (n*(n+1)/2)
 
